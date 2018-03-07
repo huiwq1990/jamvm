@@ -1,0 +1,3 @@
+/home/vagrant/Desktop/jamvm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vagrant/Desktop/jamvm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vagrant/Desktop/jamvm/cmake-build-debug/CMakeFiles/jamvm_2_0_0.dir
